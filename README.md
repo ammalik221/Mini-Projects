@@ -8,3 +8,11 @@ Some basic pytorch exercises based on this [repository](https://github.com/jcjoh
 ## Mnist Digit Recognizer
 
 ![Mnist Image](https://github.com/ammalik221/Mini-Projects/blob/master/images/mnist.png)
+
+## Generating Hand-written digits
+
+## Dogs and Cats classification
+
+## Data Analysis Techniques
+
+## Data Augmentation Techniques
