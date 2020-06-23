@@ -3,7 +3,7 @@
 This repository contains Deep Learning projects as well some jupyter notebooks containing DL and ML techniques for future reference.
 
 ## PyTorch Warm-up:
-Some basic pytorch exercises based on this [repository](https://github.com/jcjohnson/pytorch-examples#warm-up-numpy) by Justin Johnson.
+A list of tensor related PyTorch operations and an implementation of a two-layer neural network for my reference. The implementation of the network is based on the pytorch exmaples [repository](https://github.com/jcjohnson/pytorch-examples) by Justin Johnson. Check that repository out for more examples.
 
 ## Mnist Digit Recognizer
 
