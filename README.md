@@ -1,3 +1,3 @@
 # Mini Projects
 
-A bunch of ML and DL projects implemented in Pytorch.
+This repository contains Deep Learning projects as well some jupyter notebooks containing DL and ML techniques for future reference.
