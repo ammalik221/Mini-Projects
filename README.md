@@ -15,6 +15,8 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 - ### CNN model
   ![model](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_model.png)
 - ### Results
+  Accuracy Obtained - 90%
+  Class-wise accuracies - 
   ![accuracy](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_accuracy.png)
 
 ## Generating Hand-written digits
