@@ -5,9 +5,17 @@ This repository contains Deep Learning projects as well some jupyter notebooks c
 ## PyTorch Warm-up:
 A list of tensor related PyTorch operations and an implementation of a two-layer neural network for my reference. The implementation of the network is based on the pytorch exmaples [repository](https://github.com/jcjohnson/pytorch-examples) by Justin Johnson. Check that repository out for more examples.
 
-## Mnist Digit Recognizer
+## Fashion MNIST Classification
+Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
 ![Mnist Image](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_mnist.png)
+
+- ### Input
+  ![Mnish input](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_input.png)
+- ### CNN model
+  ![model](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_model.png)
+- ### Results
+
 
 ## Generating Hand-written digits
 
