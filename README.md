@@ -7,7 +7,7 @@ A list of tensor related PyTorch operations and an implementation of a two-layer
 
 ## Mnist Digit Recognizer
 
-![Mnist Image](https://github.com/ammalik221/Mini-Projects/blob/master/images/mnist.png)
+![Mnist Image](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_mnist.png)
 
 ## Generating Hand-written digits
 
