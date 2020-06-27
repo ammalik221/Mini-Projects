@@ -21,7 +21,7 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
   
   ![accuracy](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_accuracy.png) ![graph](https://github.com/ammalik221/Mini-Projects/blob/master/images/fashion_accuracy_graph.png)
 
-## Generating Hand-written digits
+<!--## Generating Hand-written digits
 
 ## Dogs and Cats classification
 
