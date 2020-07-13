@@ -23,8 +23,8 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 <!--## Generating Hand-written digits
 
-## Dogs and Cats classification
+<!--## Dogs and Cats classification
 
 ## Data Analysis Techniques
 
-## Data Augmentation Techniques
+## Data Augmentation Techniques-->
